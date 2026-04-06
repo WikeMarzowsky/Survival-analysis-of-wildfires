@@ -29,4 +29,4 @@ Key contributions include time-varying feature engineering (fire history, neighb
 
 ## Thesis
 
-The full thesis is available as [Fire_Ignition_modelling.pdf](Fire_Ignition_modelling.pdf) in this repository.
+The full thesis is available as [Fire_Ignition_modelling.pdf](Fire_Ignition_modelling-3.pdf) in this repository.
