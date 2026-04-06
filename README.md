@@ -1,6 +1,6 @@
 # Prediction of Forest Fire Ignition Probabilities in Time with Survival Analysis
 
-**Bachelor Thesis — DTU Compute, 2025**
+**Bachelor Thesis - DTU Compute, 2025**
 
 **Author:** Hans Christian Zareh Lausten-Thomsen
 
